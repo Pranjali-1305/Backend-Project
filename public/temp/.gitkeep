@@ -1,0 +1,4 @@
+<!-- Git does not track empty folders, because Git only stores files in the repository.
+So if you want an otherwise-empty folder (like temp, logs, uploads) to exist in your repo, you put a placeholder file inside it.
+
+.gitkeep isn’t a special Git feature — it’s just a convention -->
